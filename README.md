@@ -65,7 +65,7 @@ To combine my planning experience with modern data analytics tools to deliver im
 
 - 💼 [LinkedIn](https://linkedin.com/in/sameh-el-hosary-)
 
-- 📧[Email](https://mail.google.com/mail/u/1/#inbox)
+- 📧mailto:sameh.sabry656@gmail.com
 
 
 ---
