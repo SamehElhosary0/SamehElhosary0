@@ -33,11 +33,63 @@ Currently expanding my expertise in:
 | Business | Inventory Planning, Retail Planning |
 ---
 ## 🚀 Featured Projects
-✔ [WE Telecom Power BI Dashboard](https://github.com/SamehElhosary0/WE-Telecom-Executive-Dashboard.)
-✔ [E-Commerce Analytics Dashboard (Amazon)](https://github.com/SamehElhosary0/E-Commerce-Analytics-Dashboard-Amazon-)
-✔ [Retail Sales Profitability Dashboard](https://github.com/SamehElhosary0/retail-sales-profitability-dashboard)
-✔ [HR Analytics Dashboard](https://github.com/SamehElhosary0/HR-Analytics-Dashboard)
-✔ [Summary Sales Dashboard](https://github.com/SamehElhosary0/Summary-Sales-Dashboard)
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/SamehElhosary0/retail-sales-profitability-dashboard">
+<img src="https://raw.githubusercontent.com/SamehElhosary0/retail-sales-profitability-dashboard/main/screenshots/elaraby-dashboard-overview.png" width="100%"/>
+</a>
+<br/>
+<b><a href="https://github.com/SamehElhosary0/retail-sales-profitability-dashboard">Retail Sales Profitability Dashboard</a></b>
+<br/>
+Power BI | DAX | Power Query
+</td>
+<td width="50%">
+<a href="https://github.com/SamehElhosary0/E-Commerce-Analytics-Dashboard-Amazon-">
+<img src="https://raw.githubusercontent.com/SamehElhosary0/E-Commerce-Analytics-Dashboard-Amazon-/main/screenshots/ecommerce-01-overview.png" width="100%"/>
+</a>
+<br/>
+<b><a href="https://github.com/SamehElhosary0/E-Commerce-Analytics-Dashboard-Amazon-">E-Commerce Analytics Dashboard</a></b>
+<br/>
+Power BI | DAX | Power Query | Data Analysis
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/SamehElhosary0/WE-Telecom-Executive-Dashboard.">
+<img src="https://raw.githubusercontent.com/SamehElhosary0/WE-Telecom-Executive-Dashboard./main/screenshots/Screenshot%20telecom-01-overview.png" width="100%"/>
+</a>
+<br/>
+<b><a href="https://github.com/SamehElhosary0/WE-Telecom-Executive-Dashboard.">WE Telecom Executive Dashboard</a></b>
+<br/>
+Power BI | DAX | Power Query | Data Modeling
+</td>
+<td width="50%">
+<a href="https://github.com/SamehElhosary0/HR-Analytics-Dashboard">
+<img src="https://raw.githubusercontent.com/SamehElhosary0/HR-Analytics-Dashboard/main/screenshots/hr-dashboard-overview.png" width="100%"/>
+</a>
+<br/>
+<b><a href="https://github.com/SamehElhosary0/HR-Analytics-Dashboard">HR Analytics Dashboard</a></b>
+<br/>
+Power BI | DAX | Power Query
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/SamehElhosary0/Summary-Sales-Dashboard">
+<img src="https://raw.githubusercontent.com/SamehElhosary0/Summary-Sales-Dashboard/main/screenshots/Screenshot%20sales-01-main.png" width="100%"/>
+</a>
+<br/>
+<b><a href="https://github.com/SamehElhosary0/Summary-Sales-Dashboard">Summary Sales Dashboard</a></b>
+<br/>
+Power BI | DAX | Power Query | Bookmarks
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+
 ---
 ## 🎯 Career Objective
 To combine my planning experience with modern data analytics tools to deliver impactful dashboards, automate reporting processes, and support strategic business decisions.
