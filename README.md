@@ -78,7 +78,7 @@ Power BI | DAX | Power Query
 <tr>
 <td width="50%">
 <a href="https://github.com/SamehElhosary0/Summary-Sales-Dashboard">
-<img src="https://raw.githubusercontent.com/SamehElhosary0/Summary-Sales-Dashboard/main/screenshots/Screenshot%20sales-01-main.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/SamehElhosary0/Summary-Sales-Dashboard/main/Screenshot%20sales-01-main.png" width="100%"/>
 </a>
 <br/>
 <b><a href="https://github.com/SamehElhosary0/Summary-Sales-Dashboard">Summary Sales Dashboard</a></b>
