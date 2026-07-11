@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sameh El-Hosary</h1>
-<h3 align="center">Planning Specialist | Data Analyst | Power BI Developer</h3>
 <p align="center">
-Transforming data into actionable insights through analytics, automation, and interactive dashboards.
+<img src="https://raw.githubusercontent.com/SamehElhosary0/SamehElhosary0/main/banner.png" width="100%"/>
 </p>
 
 <p align="center">
 🌐 <a href="https://portfolio-nu-eight-ptyu369cvc.vercel.app"><b>View My Portfolio Website</b></a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-0B1739?style=for-the-badge&logo=powerbi&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/SQL-0B1739?style=for-the-badge&logo=postgresql&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Excel-0B1739?style=for-the-badge&logo=microsoftexcel&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Python-0B1739?style=for-the-badge&logo=python&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Power%20Query-0B1739?style=for-the-badge&logo=powerquery&logoColor=60A5FA"/>
 </p>
 
 ---
