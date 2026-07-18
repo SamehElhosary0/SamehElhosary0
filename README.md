@@ -43,46 +43,6 @@ Currently expanding my expertise in:
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/SamehElhosary0/retail-sales-profitability-dashboard">
-<img src="https://raw.githubusercontent.com/SamehElhosary0/retail-sales-profitability-dashboard/main/screenshots/elaraby-dashboard-overview.png" width="100%"/>
-</a>
-<br/>
-<b><a href="https://github.com/SamehElhosary0/retail-sales-profitability-dashboard">Retail Sales Profitability Dashboard</a></b>
-<br/>
-Power BI | DAX | Power Query
-</td>
-<td width="50%">
-<a href="https://github.com/SamehElhosary0/E-Commerce-Analytics-Dashboard-Amazon-">
-<img src="https://raw.githubusercontent.com/SamehElhosary0/E-Commerce-Analytics-Dashboard-Amazon-/main/screenshots/ecommerce-01-overview.png" width="100%"/>
-</a>
-<br/>
-<b><a href="https://github.com/SamehElhosary0/E-Commerce-Analytics-Dashboard-Amazon-">E-Commerce Analytics Dashboard</a></b>
-<br/>
-Power BI | DAX | Power Query | Data Analysis
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/SamehElhosary0/WE-Telecom-Executive-Dashboard.">
-<img src="https://raw.githubusercontent.com/SamehElhosary0/WE-Telecom-Executive-Dashboard./main/screenshots/Screenshot%20telecom-01-overview.png" width="100%"/>
-</a>
-<br/>
-<b><a href="https://github.com/SamehElhosary0/WE-Telecom-Executive-Dashboard.">WE Telecom Executive Dashboard</a></b>
-<br/>
-Power BI | DAX | Power Query | Data Modeling
-</td>
-<td width="50%">
-<a href="https://github.com/SamehElhosary0/HR-Analytics-Dashboard">
-<img src="https://raw.githubusercontent.com/SamehElhosary0/HR-Analytics-Dashboard/main/screenshots/hr-dashboard-overview.png" width="100%"/>
-</a>
-<br/>
-<b><a href="https://github.com/SamehElhosary0/HR-Analytics-Dashboard">HR Analytics Dashboard</a></b>
-<br/>
-Power BI | DAX | Power Query
-</td>
-</tr>
-<tr>
-<td width="50%">
 <a href="https://github.com/SamehElhosary0/Summary-Sales-Dashboard">
 <img src="https://raw.githubusercontent.com/SamehElhosary0/Summary-Sales-Dashboard/main/Screenshot%20sales-01-main.png" width="100%"/>
 </a>
@@ -90,6 +50,26 @@ Power BI | DAX | Power Query
 <b><a href="https://github.com/SamehElhosary0/Summary-Sales-Dashboard">Summary Sales Dashboard</a></b>
 <br/>
 Power BI | DAX | Power Query | Bookmarks
+</td>
+<td width="50%">
+<a href="https://github.com/SamehElhosary0/Jumia-Performance-Dashboard">
+<img src="https://raw.githubusercontent.com/SamehElhosary0/Jumia-Performance-Dashboard/main/jumia-dashboard-overview.png" width="100%"/>
+</a>
+<br/>
+<b><a href="https://github.com/SamehElhosary0/Jumia-Performance-Dashboard">Jumia Performance Dashboard</a></b>
+<br/>
+Power BI | DAX | Power Query | Star Schema
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard">
+<img src="https://raw.githubusercontent.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard/main/bosta-dashboard-overview.png" width="100%"/>
+</a>
+<br/>
+<b><a href="https://github.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard">Bosta Supply Chain Intelligence Dashboard</a></b>
+<br/>
+Power BI | DAX | Power Query | Python (Data Cleaning)
 </td>
 <td width="50%">
 </td>
