@@ -81,29 +81,6 @@ Power BI | DAX | Power Query | Data Modeling
 Power BI | DAX | Power Query
 </td>
 </tr>
-</td>
-<td width="50%">
-<a href="https://github.com/SamehElhosary0/Jumia-Performance-Dashboard">
-<img src="https://raw.githubusercontent.com/SamehElhosary0/Jumia-Performance-Dashboard/main/jumia-dashboard-overview.png" width="100%"/>
-</a>
-<br/>
-<b><a href="https://github.com/SamehElhosary0/Jumia-Performance-Dashboard">Jumia Performance Dashboard</a></b>
-<br/>
-Power BI | DAX | Power Query | Star Schema
-</td>
-</tr>
-<td width="50%">
-<a href="https://github.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard">
-<img src="https://raw.githubusercontent.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard/main/bosta-dashboard-overview.png" width="100%"/>
-</a>
-<br/>
-<b><a href="https://github.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard">Bosta Supply Chain Intelligence Dashboard</a></b>
-<br/>
-Power BI | DAX | Power Query | Python (Data Cleaning)
-</td>
-<td width="50%">
-</td>
-</tr>
 </table>
 
 ---
