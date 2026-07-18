@@ -82,7 +82,6 @@ Power BI | DAX | Power Query
 </td>
 </tr>
 <tr>
-</td>
 <td width="50%">
 <a href="https://github.com/SamehElhosary0/Jumia-Performance-Dashboard">
 <img src="https://raw.githubusercontent.com/SamehElhosary0/Jumia-Performance-Dashboard/main/jumia-dashboard-overview.png" width="100%"/>
@@ -93,6 +92,7 @@ Power BI | DAX | Power Query
 Power BI | DAX | Power Query | Star Schema
 </td>
 </tr>
+<tr>
 <td width="50%">
 <a href="https://github.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard">
 <img src="https://raw.githubusercontent.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard/main/bosta-dashboard-overview.png" width="100%"/>
