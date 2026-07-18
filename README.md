@@ -92,7 +92,6 @@ Power BI | DAX | Power Query
 Power BI | DAX | Power Query | Star Schema
 </td>
 </tr>
-<tr>
 <td width="50%">
 <a href="https://github.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard">
 <img src="https://raw.githubusercontent.com/SamehElhosary0/Bosta-Supply-Chain-Dashboard/main/bosta-dashboard-overview.png" width="100%"/>
