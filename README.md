@@ -81,7 +81,8 @@ Power BI | DAX | Power Query | Data Modeling
 Power BI | DAX | Power Query
 </td>
 </tr>
-  </td>
+<tr>
+</td>
 <td width="50%">
 <a href="https://github.com/SamehElhosary0/Jumia-Performance-Dashboard">
 <img src="https://raw.githubusercontent.com/SamehElhosary0/Jumia-Performance-Dashboard/main/jumia-dashboard-overview.png" width="100%"/>
