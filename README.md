@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-🌐 <a href="https://portfolio-nu-eight-ptyu369cvc.vercel.app"><b>View My Portfolio Website</b></a>
+🌐 <a href="https://portfolio-sameh-el-hosary.vercel.app"><b>View My Portfolio Website</b></a>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Power BI | DAX | Power Query | Python (Data Cleaning)
 To combine my planning experience with modern data analytics tools to deliver impactful dashboards, automate reporting processes, and support strategic business decisions.
 ---
 ## 📫 Connect With Me
-- 🌐 [Portfolio Website](https://portfolio-nu-eight-ptyu369cvc.vercel.app)
+- 🌐 [Portfolio Website](https://portfolio-sameh-el-hosary.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/sameh-el-hosary-)
 - 📧 [Email](mailto:sameh.sabry656@gmail.com)
 ---
